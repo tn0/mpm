@@ -5,16 +5,16 @@
 </head>
 <body>
 <div id="header">
-<h1>MPM Config Utility</h1>
+<tiles:insertAttribute name="header" />
 </div>
 <div id="menu">
-<h2>Menu</h2>
+<tiles:insertAttribute name="menu" />
 </div>
 <div id="content">
-<h2>Content</h2>
+<tiles:insertAttribute name="content" />
 </div>
 <div id="footer" >
-
+<tiles:insertAttribute name="footer" />
 </div>
 
 </body>
