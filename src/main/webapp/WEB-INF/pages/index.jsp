@@ -5,16 +5,18 @@
 </head>
 <body>
 <div id="header">
-<tiles:insertAttribute name="header" />
+
 </div>
 <div id="menu">
-<tiles:insertAttribute name="menu" />
+<ul>
+<li><a href="./settings/language" >Sprachen</a></li>
+</ul>
 </div>
 <div id="content">
-<tiles:insertAttribute name="content" />
+
 </div>
 <div id="footer" >
-<tiles:insertAttribute name="footer" />
+
 </div>
 
 </body>

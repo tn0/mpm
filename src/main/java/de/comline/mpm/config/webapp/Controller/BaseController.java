@@ -1,4 +1,4 @@
-package de.comlineag.mpm.Controller;
+package de.comline.mpm.config.webapp.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
